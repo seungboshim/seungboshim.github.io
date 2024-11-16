@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 개발은열시미 # the main title
+title: 기록은열시미 # the main title
 
 tagline: 시미의 개발 블로그 # it will display as the subtitle
 
@@ -46,7 +46,8 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+# <meta name="google-site-verification" content="SpcdO6PN3s1_VHqcsxwDhgmuw3-sgWPXStyksTTIQ1o" />
+  google: SpcdO6PN3s1_VHqcsxwDhgmuw3-sgWPXStyksTTIQ1o # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code

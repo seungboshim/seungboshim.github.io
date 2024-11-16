@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/sng.byo181/"
 
 - type: email
   icon: "fas fa-envelope"
