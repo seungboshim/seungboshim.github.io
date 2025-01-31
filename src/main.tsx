@@ -9,8 +9,8 @@ const router = createHashRouter([
     path: "/",
     element: <App />,
     loader: () => <div>로딩 중..</div>,
-    ErrorBoundary: () => <div>에러 발생~</div>,
-  },
+    ErrorBoundary: () => <div>에러 발생~</div>
+  }
 ]);
 
 createRoot(document.getElementById("root")!).render(
